@@ -39,7 +39,7 @@ go build
 快速运行
 
 ```
-wget -qO webBenchmark https://cdn.jsdelivr.net/gh/JHDDZ/d@main/webBenchmark_linux_arm64
+wget -qO webBenchmark https://cdn.jsdelivr.net/gh/JHDDZ/d@master/webBenchmark_linux_arm64
 chmod +x webBenchmark
 ./webBenchmark -c 32 -s http://example.link
 ```
@@ -54,7 +54,7 @@ chmod +x webBenchmark
 快速运行
 
 ```
-wget -qO webBenchmark https://cdn.jsdelivr.net/gh/JHDDZ/d@main/webBenchmark_android_arm64
+wget -qO webBenchmark https://cdn.jsdelivr.net/gh/JHDDZ/d@master/webBenchmark_android_arm64
 chmod +x webBenchmark
 ./webBenchmark -c 32 -s http://example.link
 ```
