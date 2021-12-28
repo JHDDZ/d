@@ -1,4 +1,4 @@
-项目地址：https://github.com/maintell/webBenchmark （来自：https://hostloc.com/thread-692122-1-1.html）
+项目地址：https://github.com/maintell/webBenchmark （来自：https://hostloc.com/thread-692122-1-1.html ）
 
 
 ## 怎样编译适合你的环境架构的二进制程序？
@@ -34,7 +34,7 @@ go build
 ## 提供几个已经编译好的
 
 
-架构：Arm64+Linux
+# 架构：Arm64+Linux
 
 快速运行
 
@@ -48,7 +48,7 @@ chmod +x webBenchmark
 
 ---
 
-架构：Arm64+Android
+# 架构：Arm64+Android
 可在Termux下运行
 
 快速运行
